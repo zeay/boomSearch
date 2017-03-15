@@ -1,0 +1,38 @@
+*{
+    background-color: darkgray;
+    font-size: 40px;
+}
+.upper{
+    color: sandybrown;
+}
+.middle{
+    color:floralwhite;
+}
+.lower{
+    color: green;
+}
+.bgWhite{
+    background-color:whitesmoke;
+}
+.buttonStyle{
+    color: azure;
+    background-color: black;
+}
+#result{
+    font-size: 30%;
+}
+.inTitle{
+    margin: 2px;
+    padding: 5px;
+}
+.snippet{
+    margin: 2px;
+    padding: 5px; 
+}
+.link{
+    margin: 2px;
+    padding: 5px;
+}
+#prev,#next{
+    display: none;
+}
